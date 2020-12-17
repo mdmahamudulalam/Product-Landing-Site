@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="440c2f84-9848-432a-9ec7-090364388f75" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/FreeCodeCamp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SurveyForm/surveyForm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SurveyForm/surveyStyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tribute_Page" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../j" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/productLanding.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bag.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bag.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ere.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shirt.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sui.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tab.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tie.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tier.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wood.jpeg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lfKnupBpSDzqrFPXlNaBVAMpiw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="440c2f84-9848-432a-9ec7-090364388f75" name="Default Changelist" comment="" />
+      <created>1607982877845</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607982877845</updated>
+      <workItem from="1607982879088" duration="6866000" />
+      <workItem from="1608051127372" duration="6850000" />
+      <workItem from="1608076156165" duration="1254000" />
+      <workItem from="1608127818268" duration="12911000" />
+      <workItem from="1608161119114" duration="601000" />
+      <workItem from="1608161803478" duration="4000" />
+      <workItem from="1608217178648" duration="10743000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
